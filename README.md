@@ -1,4 +1,4 @@
-### Hi there 👋
+### 嗨！你好~ 👋
 
 <!--
 **cnqdztp/cnqdztp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
