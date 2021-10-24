@@ -1,5 +1,7 @@
-### 嗨！你好~ 👋
+### Hi!Hello~ 👋
 
+ - I am a student who is currently studying Digital Art at Communication University of China.
+- 
 <!--
 **cnqdztp/cnqdztp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
