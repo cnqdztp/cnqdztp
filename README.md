@@ -1,7 +1,8 @@
-### Hi!Hello~ 👋
+### Hi! Hello~ 👋
 
  - I am a student who is currently studying Digital Art at Communication University of China.
  - My dream job is game design/UX Design/Product Manager.
+ - Any cooperation is appreciated.
 <!--
 **cnqdztp/cnqdztp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
