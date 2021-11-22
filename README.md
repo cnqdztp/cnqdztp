@@ -1,4 +1,4 @@
-### Hi! Hello~ 👋
+### Hi! Hello~ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 
  - I am a student who is currently studying Digital Art at Communication University of China.
  - My dream job is Game design/Interactive Design/UX Design/Product Manager.
