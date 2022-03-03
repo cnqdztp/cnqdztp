@@ -1,9 +1,8 @@
 ### Hi! Hello~ 👋
 
  - I am a student who is currently studying Digital Art at Communication University of China.
- - My dream job is Game design/Interactive Design/UX Design/Product Manager.
- - Any cooperation is appreciated.
- - Some repositories were moved to [SaiiGmaes](https://github.com/SaiiGames) in order to better organize my repository.
+ - My desired job is Interactive Design/UX Design/Game design.
+ - Some repositories were moved to [SaiiGmaes](https://github.com/SaiiGames) for the purpose of keeping clean.
 <!--
 **cnqdztp/cnqdztp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
