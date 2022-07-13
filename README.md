@@ -1,4 +1,4 @@
-### Hi! Hello~ 👋
+### Hello~ 👋
 
  - I am a student who is currently studying Digital Art at Communication University of China.
  - My desired job is Interactive Design/UX Design/Game design.
